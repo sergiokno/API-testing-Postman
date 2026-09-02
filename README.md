@@ -64,6 +64,10 @@ Resultado obtenido:
 - 0 tests fallidos.
 - 0 tests omitidos.
 
+### 📊 Resultado del Collection Runner
+
+![Postman Collection Runner - 28 tests passed](test-evidence/collection-runner-summary.png)
+
 ## 📸 Evidencias
 
 Las capturas de las pruebas se encuentran en la carpeta:
